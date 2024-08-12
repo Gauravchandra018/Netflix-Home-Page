@@ -1,2 +1,2 @@
 # Netflix-Home-Page
-Using HTML and CSS
+Using Html and CSS
